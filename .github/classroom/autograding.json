@@ -3,7 +3,7 @@
     {
       "name": "Test if File exists",
       "setup": "",
-      "run": "python -m unittest test_circle_area.Test.test_file_exists",
+      "run": "python -m unittest test_string_length.Test.test_file_exists",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -11,9 +11,9 @@
       "points": 10
     },
     {
-      "name": "Test circle_area Function",
+      "name": "Test string_length Function",
       "setup": "",
-      "run": "python -m unittest test_circle_area.Test.test_circle_area",
+      "run": "python -m unittest test_string_length.Test.test_string_length",
       "input": "",
       "output": "",
       "comparison": "included",
